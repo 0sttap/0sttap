@@ -3,4 +3,6 @@ Hi! My name is Ostap. I'm a Blockchain developer with a passion for Solidity. I 
 
 Hard skills:
 
-Solidity (Web3.js, Ethers.js, OpenZeppelin, Hardhat, Truffle) JavaScript (Node.js, React.js) Blockchain, EVM, ERC20, ERC721
+1. Solidity (Web3.js, Ethers.js, OpenZeppelin, Hardhat, Truffle) 
+2. JavaScript (Node.js, React.js) 
+3. Blockchain, EVM, ERC20, ERC721
