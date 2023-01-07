@@ -2,7 +2,11 @@
 
 **Hi:smiley:! My name is Ostap. I'm a Blockchain developer with a passion for Solidity. I enjoy working with Solidity and Node.js.**
 
-**All of my project you can see here: https://github.com/OstapBobrys/MyWork**
+### My DAPPs and simple project:
+
+**NFT Marketplace from scratch: https://github.com/OstapBobrys/NFT_Marketplace**
+
+**All of my simple project you can see here: https://github.com/OstapBobrys/MyWork**
 
 **And if you interesting my education-practice, welcome: https://github.com/OstapBobrys/Practice**
 
