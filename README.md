@@ -1,21 +1,5 @@
-# Biography :star2:
+**Hi:smiley: I'm Blockchain developer, with over 2 years of work on decentralized applications (DAPP).**
 
-**Hi:smiley:! My name is Ostap. I'm a Blockchain developer with a passion for Solidity. I enjoy working with Solidity and JavaScript (React.js, Next.js, Node.js).**
+**I work on Blockchain projects. Especially on Ethereum, Binance Smart Chain and layer-2 Blockchains. The main programming languages that I use for Blockchain projects are Solidity, Javascript and Typescript also frameworks such as Hardhat, Foundry.**
 
-### My DAPPs and simple project :clipboard:
-
-**NFT Marketplace from scratch: https://github.com/OstapBobrys/NFT_Marketplace**
-
-**All of my simple project you can see here: https://github.com/OstapBobrys/MyWork**
-
-**And if you interesting my education-practice, welcome: https://github.com/OstapBobrys/Practice**
-
-### Hard skills :clipboard: 
-
-:small_orange_diamond: **Solidity (Web3.js, Ethers.js, OpenZeppelin, Hardhat, Truffle)**
-
-:small_orange_diamond: **JavaScript (TypeScript, Node.js, React.js, Next.js)** 
-
-:small_orange_diamond: **Blockchain, EVM, ERC20, ERC721, ERC1155**
-
-:small_orange_diamond: **Linux, Git, GraphQL**
+**I also work with tools such as nodejs and expressjs for backend also theGraph for decentralization database.**
